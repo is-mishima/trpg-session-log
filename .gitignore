@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node.js
+node_modules/
+
+# Database
+*.db
+
+# OS・エディタ
+.DS_Store
+.vscode/
