@@ -1,14 +1,15 @@
 # Python
 __pycache__/
 *.pyc
-.venv/
+backend/.venv/
 
-# Node.js
-node_modules/
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
 
-# Database
+# DB
 *.db
 
-# OS・エディタ
+# OS / Editor
 .DS_Store
 .vscode/
